@@ -1,0 +1,12 @@
+langchain
+langchain_unstructured
+langchain_text_splitters
+langchain_huggingface
+langchain_groq
+langchain_core
+langchain_community
+faiss-cpu
+transformers
+torch
+sentence-transformers
+langgraph
